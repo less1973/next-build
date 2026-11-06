@@ -1,8 +1,8 @@
 {
   "app": "betmax-pc",
-  "builtAt": "2026-11-06T06:17:49Z",
-  "jenkinsBuildNumber": "1208",
-  "sourceCommit": "51325501b05bb754a772707c8562e09e3f41d3bc",
+  "builtAt": "2026-11-06T07:13:39Z",
+  "jenkinsBuildNumber": "1209",
+  "sourceCommit": "72599585bfe55b520f843f6b6e509b3d458f8ac1",
   "archiveFormat": "split-gzip-tar",
   "partPrefix": "dist.tgz.part-",
   "partSizeBytes": 94371840,
@@ -16,7 +16,7 @@
     "dist.tgz.part-af",
     "dist.tgz.part-ag"
   ],
-  "totalBytes": 637642307,
-  "sha256": "9df1a8043cd3faf58f5dc4de1851857a749a8e213dacd6bf88353716df8cf40f",
+  "totalBytes": 638591888,
+  "sha256": "62707382c9359043b957edea3ac212c6dae3fe82a64b9d0899cd83d7f2652ffc",
   "assemble": "cat dist.tgz.part-* > dist.tgz"
 }
